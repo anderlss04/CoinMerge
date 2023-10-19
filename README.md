@@ -18,6 +18,8 @@ CoinMerge es una aplicación web en desarrollo que tiene como objetivo proporcio
 
 - **Node.js**: Un entorno de ejecución de JavaScript que permite ejecutar código JavaScript fuera de un navegador web.
 
+- **Python**: Se utiliza para la API de la aplicación y las conexiones a las APIs privadas de los exchanges de criptomonedas.
+
 ## Cómo ejecutar la aplicación
 
 1. Clonar el repositorio de GitHub.
