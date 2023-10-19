@@ -20,12 +20,6 @@ CoinMerge es una aplicación web en desarrollo que tiene como objetivo proporcio
 
 - **Python**: Se utiliza para la API de la aplicación y las conexiones a las APIs privadas de los exchanges de criptomonedas.
 
-## Cómo ejecutar la aplicación
-
-1. Clonar el repositorio de GitHub.
-2. Instalar las dependencias utilizando el comando "npm install".
-3. Ejecutar la aplicación utilizando el comando "npm start".
-
 ## Estado del proyecto
 
 El proyecto está actualmente en desarrollo. Se agradece cualquier contribución para mejorar la aplicación.
